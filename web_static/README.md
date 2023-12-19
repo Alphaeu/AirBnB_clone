@@ -1,7 +1,12 @@
 ### Airbnb Clone
 
 #### Description
-> This is one phase of the Airbnb Clone: the HTML and CSS part. The Images
+In this project I have explored: 
+
+    HTML/CSS
+    The trinity of front-end quality
+
+ The Images
 > folder holds icons for the site (e.g. logo, bathroom icons, bedroom icons,
 > guest icons). The Styles folder holds CSS styling files. The largest numbered
 > style file of each category (e.g. common, footer, header, places) is most
